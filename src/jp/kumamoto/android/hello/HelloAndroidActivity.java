@@ -10,5 +10,7 @@ public class HelloAndroidActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //aaa
+        
+        //ブランチ
     }
 }
